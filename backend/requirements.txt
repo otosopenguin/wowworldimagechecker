@@ -1,0 +1,10 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+sqlalchemy==1.4.23
+pymysql==1.0.2
+requests==2.26.0
+beautifulsoup4==4.9.3
+python-multipart==0.0.5
+aiohttp==3.8.1
+cryptography==3.4.7
+lxml==4.9.3 
